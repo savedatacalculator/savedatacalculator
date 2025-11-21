@@ -3,6 +3,7 @@
 Welcome to **Save Data Calculator**, an advanced tool created for *Chaos Zero Nightmare (CZN)* players who want to optimize their Save Data usage.  
 The **Save Data Calculator** helps you calculate the total Save Data cost of cards, abilities, transformations, and actions—making your strategy planning easier and more efficient.
 
+![Save Data Calculator](https://raw.githubusercontent.com/savedatacalculator/savedatacalculator/refs/heads/main/save-data-calculator.webp "Save Data Calculator")
 
 ## 🔍 What Is the Save Data Calculator?
 
@@ -17,6 +18,8 @@ Instead of doing manual calculations, players can rely on the **Save Data Calcul
 - Understand how Save Data works in the game  
 
 The **Save Data Calculator** is designed to make gameplay smoother for all players.
+
+![Save Data Calculator](https://raw.githubusercontent.com/savedatacalculator/savedatacalculator/refs/heads/main/save-data-calculator-2.webp "Save Data Calculator")
 
 ## 🧠 Why Use the Save Data Calculator?
 
@@ -36,6 +39,8 @@ The **Save Data Calculator** helps you:
 Using the **Save Data Calculator** gives you full control over your deck strategy.
 
 ## 📷 Example UI (Placeholder)
+
+![Save Data Calculator](https://raw.githubusercontent.com/savedatacalculator/savedatacalculator/refs/heads/main/save-data-calculator-3.webp "Save Data Calculator")
 
 The image above illustrates how the **Save Data Calculator** interface may look.  
 Cards can be selected, and the **Save Data Calculator** will instantly update the total Save Data cost.
